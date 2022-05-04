@@ -1,5 +1,4 @@
-# Formation à Transkribus
-# (université de Poitiers, mai 2022)
+# Formation à Transkribus (université de Poitiers, mai 2022)
 
 Matériel pour la formation Transkribus donnée à l'Université de Poitiers les 5-6 mai 2022
 
